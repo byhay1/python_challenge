@@ -1,8 +1,7 @@
 # I-Spy-P
 [![Built On](https://img.shields.io/badge/python-3.7-brightgreen)](https://img.shields.io/badge/python-3.7-brightgreen) [![Last Commit](https://img.shields.io/github/last-commit/byhay1/python_challenge)](https://img.shields.io/github/last-commit/byhay1/python_challenge) [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://img.shields.io/badge/Version-1.0-blue)[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-<!-- [![logo](https://raw.githubusercontent.com/byhay1/python_challenge/master/images/I-Spy-P.png](https://raw.githubusercontent.com/byhay1/python_challenge/master/images/I-Spy-P.png) -->
-
+![ISPYP](https://raw.githubusercontent.com/byhay1/python_challenge/master/images/I-Spy-P.png)
 
 > Application for identifying IPs in a txt file and getting more information from the IP (Or any IP)
 
@@ -70,8 +69,7 @@ $ sudo make altinstall
 - Search target IP against geoIP and RDAP apis to extract additional information about the target IP
 ---
 ## Usage-Help 
-
-[![helpme](https://raw.githubusercontent.com/byhay1/python_challenge/master/images/Help.png](https://raw.githubusercontent.com/byhay1/python_challenge/master/images/Help.png) 
+![helpme](https://raw.githubusercontent.com/byhay1/python_challenge/master/images/Help.png)
 
 ---
 ## Tests
@@ -102,6 +100,6 @@ Reach out to me to help support the app!
 
 ## Donations
 
-BTC - Add Later
-LTC - Add Later
-ETH - Add Later
+- BTC: Add Later
+- LTC:  Add Later
+- ETH:  Add Later
