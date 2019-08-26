@@ -12,11 +12,10 @@
 
 ***Pretty Darn Fast***
 
-<VIDEO HERE>
+![ISPYP_recording](https://github.com/byhay1/python_challenge/blob/master/images/ispyp_recording.gif)
 
 - What made the challenge "challenging" was using native python solely for all of the code. No 3rd-party Modules/Packages!
 - However, even without BeautifulSoup, Selenium, and even Pandas, the code ran well.
-
 
 
 ---
@@ -87,6 +86,7 @@ $ sudo make altinstall
 - Creating a docker image so others can use
 - Better UI
 - Better formatting
+- Fix regex IP identification; not perfect
 
 ---
 
