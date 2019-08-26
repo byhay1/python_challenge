@@ -62,6 +62,15 @@ $ sudo ./configure --enable-optimizations
 $ sudo make altinstall
 ```
 
+> dl script(s) into same dst folder
+> run scripts
+
+```shell
+$ cd /home/path/ISPYP
+$ python3 ISPYP.py
+```
+Or, open up favorite IDE and run ISPYP.py
+
 ---
 
 ## Features
@@ -83,7 +92,8 @@ $ sudo make altinstall
 
 ## Future
 
-- Creating a docker image so others can use
+- Creating a docker image/external access to container so others can use
+- Add to repl.it profile so others can use
 - Better UI
 - Better formatting
 - Fix regex IP identification; not perfect
