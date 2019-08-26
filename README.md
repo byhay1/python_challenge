@@ -38,6 +38,7 @@
 
 - Python 3.X installed
 - Terminal or IDE capable of running .py scripts
+- IDE like PyCharm, Atom, Spyder is preferred to properly execute GET requests for GeoIP/RDAP
 
 ### Setup
 
