@@ -13,7 +13,7 @@
 
 ***Pretty Darn Fast***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+<VIDEO HERE>
 
 - What made the challenge "challenging" was using native python solely for all of the code. No 3rd-party Modules/Packages!
 - However, even without BeautifulSoup, Selenium, and even Pandas, the code ran well.
