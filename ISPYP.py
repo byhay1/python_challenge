@@ -12,6 +12,7 @@ and RDAP/WhoIS from IP based on Queries
 #---------------------
 import re
 import urllib
+import urllib.request
 import json as js
 import io
 import ASCIIbanner
