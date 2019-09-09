@@ -214,8 +214,6 @@ call_func = {'search':search, 'geo':geo, 'rdap':rdap, 'changeip':changeip, 'help
 #-------------INITIATE-------------#
 if __name__ == '__main__': 
     infile(file)
-    #rint(iplist)
-    startapp(query)        
-    #call_func[query](target_ip)    
-    #pass
+    #print(iplist)
+    startapp(query)         
     
